@@ -1,1 +1,3 @@
-# SPRING2022
+# PROJECTS [ACTIVE]
+
+Repository of ongoing DAIS projects
