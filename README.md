@@ -11,6 +11,8 @@
 
 - Team leaders are required to update the "Latest version of (the) project's code" on each presentation of their team
 
+- **[How to create a folder](https://github.community/t/add-a-folder/2304)**
+
 
 
 
