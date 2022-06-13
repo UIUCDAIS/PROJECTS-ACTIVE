@@ -5,11 +5,10 @@
 ## INSTRUCTIONS
 
 - Create a folder with the following contents:
-  - **1** Completed project document following the rubric **ACTIVE.md** under **TEMPLATE** repo
-  - **1** Latest version of your project's code (file extension could be html, pdf, ipynb, etc **BUT** the file must include the entire code) 
-  - **1** DAISICON_BOTTOM.png
-  - **1** DAISLOGO_TOP.png
-
+  - **One** Completed project document following the rubric **ACTIVE.md** under **TEMPLATE** repo
+  - **One** DAISICON_BOTTOM.png from **TEMPLATE** repo
+  - **One** DAISLOGO_TOP.png from **TEMPLATE** repo
+  - **One** Latest version of your project's code (file extension could be html, pdf, ipynb, etc **BUT** the file must include the entire code) 
 
 - Team leaders are required to update the "Latest version of (the) project's code" on each presentation of their team
 
